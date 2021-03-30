@@ -5,7 +5,7 @@ import random
 bl_info = {"name": "Object Shake", 
             "category": "Animation", 
             "author": "Tim Crellin (Thatimster)", 
-            "blender": (2,79,0), 
+            "blender": (2,80,0), 
             "location": "3D Toolbar", 
             "description":"Adds randomly generated shaking to any object",
             "warning": "",
